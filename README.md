@@ -293,17 +293,6 @@ Given more time, I would like to add:
 
 ---
 
-#  Screenshots
-
-(Add screenshots here)
-
-- Login Page
-- Signup Page
-- Dashboard
-- AI Task Generation
-- Task CRUD Operations
-
----
 
 
 
