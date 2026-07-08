@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://ai-powered-task-manager-pvfl.onrender.com"
 
 # ---------------- SESSION STATE ----------------
 
